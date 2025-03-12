@@ -32,4 +32,4 @@ Este repositório contém a análise de dados do **Índice de Desenvolvimento da
 ## Como Executar o Projeto
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/claraaqn/IC-Dadis_IDEB.git
